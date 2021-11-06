@@ -15,6 +15,23 @@
       "url": "https://leoportogtr86.github.io/dicionario-de-escalas",
       "misMatchThreshold": 0,
       "requireSameDimensions": true
+    },
+    {
+      "label": "Clique no Dropdown de Escalas",
+      "url": "https://leoportogtr86.github.io/dicionario-de-escalas",
+      "clickSelector": "#tonalidade",
+      "misMatchThreshold": 0,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Menor Natural",
+      "url": "https://leoportogtr86.github.io/dicionario-de-escalas",
+      "clickSelectors": [
+        "#tonalidade",
+        "#menor_natural"
+      ],
+      "misMatchThreshold": 0,
+      "requireSameDimensions": true
     }
   ],
   "paths": {
